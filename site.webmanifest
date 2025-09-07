@@ -1,6 +1,6 @@
 {
-  "name": "My New Hugo Site",
-  "short_name": "My New Hugo Site",
+  "name": "",
+  "short_name": "",
   "icons": [
     {
       "src": "/web-app-manifest-192x192.png",
