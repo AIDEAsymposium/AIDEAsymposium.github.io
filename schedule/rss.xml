@@ -1,1 +1,141 @@
-<?xml version="1.0" encoding="utf-8"?><rss version="2.0" xml:lang="en-us" xmlns:atom="http://www.w3.org/2005/Atom"><channel><language>en-us</language><lastBuildDate>Mon, 01 Jan 0001 00:00:00 UTC</lastBuildDate><link>https://AIDEAsymposium.github.io/schedule/</link><atom:link href="https://AIDEAsymposium.github.io/schedule/rss.xml" hreflang="en-us" rel="self" type="application/rss+xml"/><atom:link href="https://AIDEAsymposium.github.io/schedule/atom.xml" hreflang="en-us" rel="alternate" type="application/atom+xml"/><atom:link href="https://AIDEAsymposium.github.io/schedule/" hreflang="en-us" rel="alternate" type="text/html"/><atom:link href="https://AIDEAsymposium.github.io/schedule/rss.xml" hreflang="en-us" rel="alternate" type="application/rss+xml"/><title>Schedules · 2nd Symposium on Integrating AI and Data Science into School Education Across Disciplines</title><item><description><![CDATA[<p>The following focus topics will be addressed and discussed in various sessions:</p><p><font size=7><i class=bi-database></i></font> <b>Data and Problems</b></br>What data and related contextual problems are appropriate for designing learning opportunities related to AI? What do students need to know about the concept of data to do data science and understand AI?</br></p><p><font size=7><i class=bi-tools></i></font> <b>Tools</b></br>Which (digital) tools are suitable or adaptable for teaching, learning and doing data science and AI at school level?</br></p><p><font size=7><i class=bi-lightbulb></i></font> <b>Explanatory Models</b></br>What kind of educational and explanatory models–on which level of detail and abstraction–are suitable for what learners? Where are black boxes suitable, or even needed, and where should they be avoided?</br></p><p><font size=7><i class=bi-book></i></font> <b>Learning Materials</b></br>How can suitable teaching and learning materials look like? Which concepts can be elementarised? What are good practice examples?</br></p><p><font size=7><i class=bi-patch-check></i></font> <b>AI and Data Science Competencies</b></br>What are key competencies that responsible citizens should acquire regarding the field of AI and data science? Which AI and data science competencies should already be promoted at school? What contribution can and must different subjects make?</br></p><p><font size=7><i class=bi-card-text></i></font> <b>AI and Data Science Curricula and Implementation in School</b></br>How can AI education be integrated in schools? How can AI and data science education be integrated into existing subject curricula (e.g. computer science, mathematics, social and natural sciences)? What could an AI and data science curriculum look like?</br></p><p><font size=7><i class=bi-people></i></font> <b>AI and Data Science Education for Social Good</b></br>How can AI and data science education (e.g. learning environment, selection of data, etc.) be designed to effectively address social issues and promote societal well-being? What ethical considerations should guide our understanding of AI and data science in teaching?</br></p>]]></description><guid isPermaLink="false">tag:AIDEAsymposium.github.io,0001-01-01:topics</guid><link>https://AIDEAsymposium.github.io/schedule/topics/</link><atom:link href="https://AIDEAsymposium.github.io/schedule/topics/" hreflang="en-us" rel="alternate" type="text/html"/><pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate><title>Focus topics</title></item></channel></rss>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+    
+
+    
+        
+
+        
+            
+        
+    
+
+
+
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<rss version="2.0"  xml:lang="en-us"  xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        
+
+        
+
+        
+            <language>en-us</language>
+        
+
+        
+            <lastBuildDate>Mon, 01 Jan 0001 00:00:00 UTC</lastBuildDate>
+        
+
+        
+            <link>http://localhost:1313/schedule/</link>
+        
+
+        
+            <atom:link href="http://localhost:1313/schedule/rss.xml" hreflang="en-us" rel="self" type="application/rss+xml"/>
+        
+
+        
+            
+
+            <atom:link href="http://localhost:1313/schedule/atom.xml" hreflang="en-us" rel="alternate" type="application/atom+xml"/>
+        
+            
+
+            <atom:link href="http://localhost:1313/schedule/" hreflang="en-us" rel="alternate" type="text/html"/>
+        
+            
+
+            <atom:link href="http://localhost:1313/schedule/rss.xml" hreflang="en-us" rel="alternate" type="application/rss+xml"/>
+        
+
+        
+
+        
+
+        
+            <title>Schedules · 2nd Symposium on Integrating AI and Data Science into School Education Across Disciplines</title>
+        
+
+        
+
+        
+            
+                <item>
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+
+                    
+
+                    
+
+                    
+
+                    
+
+                    
+                    
+                    
+
+                    
+
+                    
+                        <description><![CDATA[<p>The following focus topics will be addressed and discussed in various sessions:</p><p><font size=7><i class=bi-database></i></font> <b>Data and Problems</b></br>What data and related contextual problems are appropriate for designing learning opportunities related to AI? What do students need to know about the concept of data to do data science and understand AI?</br></p><p><font size=7><i class=bi-tools></i></font> <b>Tools</b></br>Which (digital) tools are suitable or adaptable for teaching, learning and doing data science and AI at school level?</br></p><p><font size=7><i class=bi-lightbulb></i></font> <b>Explanatory Models</b></br>What kind of educational and explanatory models–on which level of detail and abstraction–are suitable for what learners? Where are black boxes suitable, or even needed, and where should they be avoided?</br></p><p><font size=7><i class=bi-book></i></font> <b>Learning Materials</b></br>How can suitable teaching and learning materials look like? Which concepts can be elementarised? What are good practice examples?</br></p><p><font size=7><i class=bi-patch-check></i></font> <b>AI and Data Science Competencies</b></br>What are key competencies that responsible citizens should acquire regarding the field of AI and data science? Which AI and data science competencies should already be promoted at school? What contribution can and must different subjects make?</br></p><p><font size=7><i class=bi-card-text></i></font> <b>AI and Data Science Curricula and Implementation in School</b></br>How can AI education be integrated in schools? How can AI and data science education be integrated into existing subject curricula (e.g. computer science, mathematics, social and natural sciences)? What could an AI and data science curriculum look like?</br></p><p><font size=7><i class=bi-people></i></font> <b>AI and Data Science Education for Social Good</b></br>How can AI and data science education (e.g. learning environment, selection of data, etc.) be designed to effectively address social issues and promote societal well-being? What ethical considerations should guide our understanding of AI and data science in teaching?</br></p>]]></description>
+                    
+
+                    
+                        <guid isPermaLink="false">tag:localhost:1313,0001-01-01:topics</guid>
+                    
+
+                    
+                        <link>http://localhost:1313/schedule/topics/</link>
+                    
+
+                    
+                        
+
+                        
+
+                        <atom:link href="http://localhost:1313/schedule/topics/" hreflang="en-us" rel="alternate" type="text/html"/>
+                    
+
+                    
+
+                    
+                        <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+                    
+
+                    
+                        <title>Focus topics</title>
+                    
+                </item>
+            
+        
+    </channel>
+</rss>
